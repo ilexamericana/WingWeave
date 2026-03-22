@@ -24,3 +24,16 @@ Gardeners plant with three goals:
 3. Adult nectar sources  
 
 The tool connects these relationships to specific species found in the user’s region.
+## Dataset (Phase 1)
+
+The initial dataset includes:
+
+- ~10 butterfly species relevant to Alberta (Zone 3)
+- 20–30 plant species
+- Relationships categorized as:
+  - larval (host plants)
+  - nectar (adult feeding)
+- Scientific names for plants and insects
+- Source type and confidence level for each entry
+
+This dataset is designed to be "good enough" to support a working prototype and will be refined over time.
