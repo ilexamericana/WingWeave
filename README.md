@@ -37,3 +37,11 @@ The initial dataset includes:
 - Source type and confidence level for each entry
 
 This dataset is designed to be "good enough" to support a working prototype and will be refined over time.
+## Next Steps (Phase 2)
+
+- Build a simple lookup tool using Python and pandas
+- Allow filtering by:
+  - butterfly species
+  - ecological role (larval vs nectar)
+  - growing conditions (e.g., sun exposure)
+- Generate plant recommendations based on user input
