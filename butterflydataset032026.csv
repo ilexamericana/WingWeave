@@ -1,0 +1,82 @@
+﻿Insect,Scientific name,Stage,Plant,Botanical Name,Role,Relationship,Sun,Growth,Native,Source,,Confidence,Source Type
+Monarch,Danaus plexippus,Host,Low Milkweed,Asclepias ovalifolia,Leaves,Specific,Full,Herbaceous,Yes,"https://blog.cwf-fcf.org/index.php/en/monarch-on-the-prairies/#:~:text=This%20allowed%20the%20Monarch%20to,travelling%20to%20Mexico%20each%20year.&text=iNaturalist%20Canada%20observations%20also%20show,Milkweed%20can%20definitely%20grow%20here!",,High,Conservation
+Monarch,Danaus plexippus,Host,Showy Milkweed,Asclepias speciosa,Leaves,Specific,Full,Herbaceous,Yes,"https://blog.cwf-fcf.org/index.php/en/monarch-on-the-prairies/#:~:text=iNaturalist%20Canada%20observations%20also%20show,Milkweed%20can%20definitely%20grow%20here!",,High,Conservation
+Monarch,Danaus plexippus,Host,Short Green Milkweed,Asclepias viridflora,Leaves,Specific,Full,Herbaceous,Yes,"https://blog.cwf-fcf.org/index.php/en/monarch-on-the-prairies/#:~:text=iNaturalist%20Canada%20observations%20also%20show,Milkweed%20can%20definitely%20grow%20here!",,High,Conservation
+Monarch,Danaus plexippus,Butterfly,Blazing star,Liatris ligulistylis,Nectar,General,Full,Herbaceous,Yes,https://www.enps.ca/plant-index/meadow-blazing-star,,High,Conservation
+Monarch,Danaus plexippus,Butterfly,Coneflower,Echinacea purpurea,Nectar,General,Full,Herbaceous,No,https://www.birdsandblooms.com/gardening/attracting-butterflies/attract-birds-and-butterflies-with-coneflowers/,,Medium,Horticultural
+Monarch,Danaus plexippus,Butterfly,Goldenrod,Solidago,Nectar,General,Full,Herbaceous,Yes,https://www.mun.ca/botanicalgarden/learn/educational-resources/butterflies-moths-and-skippers/,,High,Educational
+Monarch,Danaus plexippus,Butterfly,Lilac,Syringa vlugaris,Nectar,General,Full,Shrub,No,https://www.mun.ca/botanicalgarden/learn/educational-resources/butterflies-moths-and-skippers/,,High,Educational
+Painted Lady,Vanessa cardui,Host,Hooker's Thistle,Cirsium hookerianum,Leaves,Specific,Full,Herbaceous,Yes,https://www.butterfliesandmoths.org/species/Vanessa-cardui,,High,Observational
+Painted Lady,Vanessa cardui,Host,Sunflower,Helianthus spp.,Leaves,Specific,Full,Herbaceous,No,https://www.butterfliesandmoths.org/species/Vanessa-cardui,,High,Observational
+Painted Lady,Vanessa cardui,Host,Hollyhock,Alcea,Leaves,Specific,Full,Herbaceous,No,https://www.butterfliesandmoths.org/species/Vanessa-cardui,,High,Observational
+Painted Lady,Vanessa cardui,Host,Scarlet Mallow,Sphaeralcea coccinea,Leaves,Specific,Partial,Herbaceous,Yes,https://www.butterfliesandmoths.org/species/Vanessa-cardui,,High,Observational
+Painted Lady,Vanessa cardui,Host,Common Mallow,Malva neglecta,Leaves,Specific,Partial,Herbaceous,No,https://www.butterfliesandmoths.org/species/Vanessa-cardui,,High,Observational
+Painted Lady,Vanessa cardui,Host,Nettle,Urtica dioica,Leaves,Specific,Partial,Herbaceous,Yes,https://www.butterfliesandmoths.org/species/Vanessa-cardui,,High,Observational
+Painted Lady,Vanessa cardui,Host,Common Mallow,Malva neglecta,Leaves,Specific,Partial,Herbaceous,No,https://www.butterfliesandmoths.org/species/Vanessa-cardui,,High,Observational
+Painted Lady,Vanessa cardui,Host,Borage,Borago officinalis,Leaves,Specific,Full,Herbaceous,No,https://www.butterfliesandmoths.org/species/Vanessa-cardui,,High,Observational
+Painted Lady,Vanessa cardui,Host,Pea,Fabaceae,Leaves,Specific,Full,Vine,No,https://www.butterfliesandmoths.org/species/Vanessa-cardui,,High,Observational
+Painted Lady,Vanessa cardui,Butterfly,Blazing star,Liatris ligulistylis,Nectar,General,Full,Herbaceous,Yes,https://www.butterfliesandmoths.org/species/Vanessa-cardui,,High,Observational
+Painted Lady,Vanessa cardui,Butterfly,Zinnia,Zinnia elegans,Nectar,General,Full,Herbaceous,No,https://www.butterfliesandmoths.org/species/Vanessa-cardui,,High,Observational
+Painted Lady,Vanessa cardui,Butterfly,Cosmos,Cosmos spp,Nectar,General,Full,Herbaceous,No,https://www.butterfliesandmoths.org/species/Vanessa-cardui,,High,Observational
+Painted Lady,Vanessa cardui,Butterfly,Aster,Asteraceae,Nectar,General,Full,Herbaceous,No,https://www.butterfliesandmoths.org/species/Vanessa-cardui,,High,Observational
+Painted Lady,Vanessa cardui,Butterfly,Joe-Pye Weed,Eupatorium maculatum,Nectar,General,Full,Shrub,Yes,https://www.butterfliesandmoths.org/species/Vanessa-cardui,,High,Observational
+Red Admiral,Vanessa atalanta,Host,Nettle,Urtica dioica,Leaves,Specific,Partial,Herbaceous,Yes,"https://butterfly-conservation.org/butterflies/red-admiral#:~:text=Caterpillar%20Foodplants,lupulus)%20may%20also%20be%20used.",,High,Conservation
+Red Admiral,Vanessa atalanta,Host,Hops,Humulus lupulus,Leaves,Specific,Full,Vine,No,"https://butterfly-conservation.org/butterflies/red-admiral#:~:text=Caterpillar%20Foodplants,lupulus)%20may%20also%20be%20used.",,High,Conservation
+Red Admiral,Vanessa atalanta,Butterfly,Arctic Aster,Eurybia sibirica,Nectar,General,Full,Herbaceous,Yes,https://www.enps.ca/plant-index/arctic-aster-(siberian-aster),,High,Observational
+Red Admiral,Vanessa atalanta,Butterfly,Aster,Asteraceae,Nectar,General,Full,Herbaceous,No,https://animaldiversity.org/accounts/Vanessa_atalanta/,,Medium,Educational
+Red Admiral,Vanessa atalanta,Butterfly,Milkweed,Asclepias spp.,Nectar,General,Full,Herbaceous,No,https://animaldiversity.org/accounts/Vanessa_atalanta/,,Medium,Educational
+Red Admiral,Vanessa atalanta,Butterfly,Red Clover,Trifolium pratense,Nectar,General,Full,Herbaceous,No,https://animaldiversity.org/accounts/Vanessa_atalanta/,,Medium,Educational
+Red Admiral,Vanessa atalanta,Butterfly,Alfalfa,Medicago sativa,Nectar,General,Full,Herbaceous,No,https://animaldiversity.org/accounts/Vanessa_atalanta/,,Medium,Educational
+Red Admiral,Vanessa atalanta,Butterfly,Low Goldenrod,Solidago missouriensis,Nectar,General,Full,Herbaceous,Yes,https://www.enps.ca/plant-index/low-goldenrod,,High,Conservation
+Red Admiral,Vanessa atalanta,Butterfly,Rotting fruit,,Nectar,General,Shade,Tree,Yes,https://northernwoodlands.org/outside_story/article/butterflies-nectar,,High,Conservation
+Canadian Tiger Swallowtail,Papilio canadensis,Host,Birch,Betula spp.,Leaves,Specific,Full,Tree,Yes,https://www.butterfliesandmoths.org/species/Papilio-canadensis,,High,Conservation
+Canadian Tiger Swallowtail,Papilio canadensis,Host,Aspen,Populus spp.,Leaves,Specific,Full,Tree,Yes,https://www.butterfliesandmoths.org/species/Papilio-canadensis,,High,Conservation
+Canadian Tiger Swallowtail,Papilio canadensis,Host,Ash,Fraxinus,Leaves,Specific,Full,Tree,Yes,"https://cwf-fcf.org/en/resources/encyclopedias/fauna/insects/canadian-tiger-swallowtail.html#:~:text=RANGE,PRIMARY%20ECOSYSTEM%20ROLES",,High,Conservation
+Canadian Tiger Swallowtail,Papilio canadensis,Host,Poplar,Populus spp.,Leaves,Specific,Full,Tree,Yes,https://www.butterfliesandmoths.org/species/Papilio-canadensis,,High,Conservation
+Canadian Tiger Swallowtail,Papilio canadensis,Host,Willow,Salix,Leaves,Specific,Partial,Tree,Yes,"https://cwf-fcf.org/en/resources/encyclopedias/fauna/insects/canadian-tiger-swallowtail.html#:~:text=RANGE,PRIMARY%20ECOSYSTEM%20ROLES",,High,Conservation
+Canadian Tiger Swallowtail,Papilio canadensis,Butterfly,Lilac,Syringa vlugaris,Nectar,General,Full,Shrub,No,https://www.inaturalist.ca/projects/calgary-pollinators/journal/100719-pollinator-of-the-month-canadian-tiger-swallowtail-papilio-canadensis,,High,Observational
+Canadian Tiger Swallowtail,Papilio canadensis,Butterfly,Joe-Pye Weed,Eupatorium maculatum,Nectar,General,Full,Shrub,Yes,https://www.mun.ca/botanicalgarden/learn/educational-resources/butterflies-moths-and-skippers/,,High,Educational
+Canadian Tiger Swallowtail,Papilio canadensis,Butterfly,Bergamot,Monarda fistulosa,Nectar,General,Full,Herbaceous,Yes,https://www.mun.ca/botanicalgarden/learn/educational-resources/butterflies-moths-and-skippers/,,High,Educational
+Canadian Tiger Swallowtail,Papilio canadensis,Butterfly,Blazing star,Liatris ligulistylis,Nectar,General,Full,Herbaceous,Yes,https://www.mun.ca/botanicalgarden/learn/educational-resources/butterflies-moths-and-skippers/,,High,Educational
+Canadian Tiger Swallowtail,Papilio canadensis,Host,Cherry,Prunus,Leaves,Specific,Full,Tree,Yes,https://www.butterfliesandmoths.org/species/Papilio-canadensis,,High,Observational
+Canadian Tiger Swallowtail,Papilio canadensis,Butterfly,Dandelion,Taraxacum officinale,Nectar,General,Full,Herbaceous,No,https://www.inaturalist.ca/projects/calgary-pollinators/journal/100719-pollinator-of-the-month-canadian-tiger-swallowtail-papilio-canadensis,,High,Observational
+Canadian Tiger Swallowtail,Papilio canadensis,Butterfly,Western Wood Lily,Lilium philadelphicum,Nectar,General,Partial,Herbaceous,Yes,https://kananaskis.org/canadian-tiger-swallowtail-butterfly/,,Medium,Observational
+Mourning Cloak,Nymphalis antiopa,Host,Black Willow,Salix nigra,Leaves,Specific,Partial,Tree,No,https://www.butterfliesandmoths.org/species/Nymphalis-antiopa,,High,Observational
+Mourning Cloak,Nymphalis antiopa,Host,Weeping Willow,Salix baylonica,Leaves,Specific,Full,Tree,No,https://www.butterfliesandmoths.org/species/Nymphalis-antiopa,,High,Observational
+Mourning Cloak,Nymphalis antiopa,Host,Silky Willow,Salix sericea,Leaves,Specific,Full,Tree,No,https://www.butterfliesandmoths.org/species/Nymphalis-antiopa,,High,Observational
+Mourning Cloak,Nymphalis antiopa,Host,Aspen,Populus tremuloides,Leaves,Specific,Full,Tree,Yes,https://www.butterfliesandmoths.org/species/Nymphalis-antiopa,,High,Observational
+Mourning Cloak,Nymphalis antiopa,Host,Poplar,Populus deltoides,Leaves,Specific,Full,Tree,Yes,https://www.butterfliesandmoths.org/species/Nymphalis-antiopa,,High,Observational
+Mourning Cloak,Nymphalis antiopa,Host,Paper Birch,Betula papyfera,Leaves,Specific,Full,Tree,Yes,https://www.butterfliesandmoths.org/species/Nymphalis-antiopa,,High,Observational
+Mourning Cloak,Nymphalis antiopa,Host,American Elm,Ulmus americana,Leaves,Specific,Full,Tree,Yes,https://www.butterfliesandmoths.org/species/Nymphalis-antiopa,,High,Observational
+Mourning Cloak,Nymphalis antiopa,Butterfly,Oak tree sap,Quercus spp,Sap,Specific,Full,Tree,Yes,https://www.butterfliesandmoths.org/species/Nymphalis-antiopa,https://northernwoodlands.org/outside_story/article/butterflies-nectar,High,Conservation
+Mourning Cloak,Nymphalis antiopa,Butterfly,Willow,Salix,Nectar,Specific,Full,Tree,Yes,https://www.insectsofalberta.com/mourningcloak.htm,,High,Conservation
+Milbert's Tortoiseshell,Aglais milberti,Host,Nettle,Urtica dioica,Leaves,Specific,Partial,Herbaceous,Yes,https://www.butterfliesandmoths.org/species/Aglais-milberti,,High,Conservation
+Milbert's Tortoiseshell,Aglais milberti,Butterfly,Lilac,Syringa vlugaris,Nectar,General,Full,Shrub,No,https://www.butterfliesandmoths.org/species/Aglais-milberti,,High,Conservation
+Milbert's Tortoiseshell,Aglais milberti,Butterfly,Goldenrod,Solidago,Nectar,General,Full,Herbaceous,Yes,https://www.butterfliesandmoths.org/species/Aglais-milberti,,High,Conservation
+Milbert's Tortoiseshell,Aglais milberti,Butterfly,Thistle,Cirsium,Nectar,General,Full,Herbaceous,Yes,https://www.butterfliesandmoths.org/species/Aglais-milberti,,High,Conservation
+Green Comma,Polygonia faunus,Host,Black Birch,Betula lenta,Leaves,Specific,Full,Tree,Yes,https://www.insectsofalberta.com/greencomma.htm,,High,Conservation
+Green Comma,Polygonia faunus,Host,Small Pussy Willow,Salix humilis,Leaves,Specific,Partial,Shrub,Yes,https://www.insectsofalberta.com/greencomma.htm,,High,Conservation
+Green Comma,Polygonia faunus,Host,Alder,Alnus,Leaves,Specific,Full,Tree,Yes,https://www.insectsofalberta.com/greencomma.htm,,High,Conservation
+Green Comma,Polygonia faunus,Host,Gooseberry,Ribes oxacanthoides,Leaves,Specific,Full,Shrub,Yes,https://www.insectsofalberta.com/greencomma.htm,,High,Conservation
+Green Comma,Polygonia faunus,Host,Western Azalea,Rhododendron occidentale,Leaves,Specific,Partial,Shrub,Yes,https://www.butterfliesandmoths.org/species/Polygonia-faunus,,High,Observational
+Green Comma,Polygonia faunus,Butterfly,Tree sap in holes from sapsuckers,,Nectar,Specific,Full,Tree,,https://www.insectsofalberta.com/greencomma.htm,,High,Conservation
+Northern Crescent,Phyciodes cocyta,Host,Aster,Symphyotrichum,Leaves,General,Full,Herbaceous,Yes,https://www.butterfliesandmoths.org/species/Phyciodes-cocyta,,High,Observational
+Northern Crescent,Phyciodes cocyta,Butterfly,Black-eyed Susan,Rudbeckia hirta,Nectar,General,Full,Herbaceous,Yes,https://www.backyardecology.net/black-eyed-susan/,,High,Conservation
+Northern Crescent,Phyciodes cocyta,Butterfly,White Clover,Trifolium repens,Nectar,General,Full,Herbaceous,No,https://www.butterfliesandmoths.org/species/Phyciodes-cocyta,,High,Observational
+Northern Crescent,Phyciodes cocyta,Butterfly,Yarrow,Achillea millefolium,Nectar,General,Full,Herbaceous,Yes,https://www.enps.ca/plant-index/yarrow,,High,Conservation
+Northern Crescent,Phyciodes cocyta,Butterfly,Aster,Asteraceae,Nectar,General,Full,Herbaceous,Yes,https://www.birdsandblooms.com/gardening/attracting-butterflies/attract-butterflies-with-late-asters/,,Medium,Horticultural
+Two-tailed Swallowtail,Papilio multicaudata,Host,Saskatoon,Ameranchier alnifolia,Leaves,Specific,Full,Shrub,Yes,https://gardening.usask.ca/articles-and-lists/articles-how-to/attracting-pollinators-to-your-yard.php,,High,Educational
+Two-tailed Swallowtail,Papilio multicaudata,Host,Chokecherry,Prunus virginiana,Leaves,Specific,Full,Tree,Yes,https://www.butterfliesandmoths.org/species/Papilio-multicaudata,,High,Observational
+Two-tailed Swallowtail,Papilio multicaudata,Host,Ash,Fraxinus,Leaves,Specific,Full,Tree,Yes,https://www.butterfliesandmoths.org/species/Papilio-multicaudata,,High,Observational
+Two-tailed Swallowtail,Papilio multicaudata,Butterfly,Flodman's Thistle,Cirsium flodmanii,Nectar,General,Full,Herbaceous,Yes,https://www.butterfliesandmoths.org/species/Papilio-multicaudata,,High,Observational
+Two-tailed Swallowtail,Papilio multicaudata,Butterfly,Milkweed,Asclepias spp.,Nectar,General,Full,Herbaceous,No,https://www.butterfliesandmoths.org/species/Papilio-multicaudata,,High,Observational
+Two-tailed Swallowtail,Papilio multicaudata,Butterfly,Lilac,Syringa vlugaris,Nectar,General,Full,Shrub,No,https://www.butterfliesandmoths.org/species/Papilio-multicaudata,,High,Observational
+Meadow Fritillary,Boloria bellona,Host,Northern White Violet,Viola pallens,Leaves,Specific,Shade,Herbaceous,Yes,https://www.butterfliesandmoths.org/species/Boloria-bellona,,High,Observational
+Meadow Fritillary,Boloria bellona,Host,Woolly Blue Violet,Viola sororia,Leaves,Specific,Shade,Herbaceous,No,https://www.butterfliesandmoths.org/species/Boloria-bellona,,High,Observational
+Meadow Fritillary,Boloria bellona,Host,Canada Violet,Viola canadensis,Leaves,Specific,Shade,Herbaceous,Yes,https://www.enps.ca/plant-index/canada-violet,,High,Conservation
+Meadow Fritillary,Boloria bellona,Host,Prairie Violet,Viola pedatifida,Leaves,Specific,Full,Herbaceous,Yes,https://www.enps.ca/plant-index/crowfoot-violet-(prairie-violet),,High,Conservation
+Meadow Fritillary,Boloria bellona,Host,Early Blue Violet,Viola adunca,Leaves,Specific,Partial,Herbaceous,Yes,https://www.enps.ca/plant-index/early-blue-violet,,High,Conservation
+Meadow Fritillary,Boloria bellona,Butterfly,Black-eyed Susan,Rudbeckia hirta,Nectar,General,Full,Herbaceous,Yes,https://www.butterfliesandmoths.org/species/Boloria-bellona,,High,Observational
+Meadow Fritillary,Boloria bellona,Butterfly,Yarrow,Achillea millefolium,Nectar,General,Full,Herbaceous,Yes,https://www.enps.ca/plant-index/yarrow,,High,Conservation
+Meadow Fritillary,Boloria bellona,Butterfly,Echinacea,Echinacea purpurea,Nectar,General,Full,Herbaceous,No,https://parkdalegateway.wordpress.com/2019/05/06/butterflies/,,Medium,Horticultural
+Meadow Fritillary,Boloria bellona,Butterfly,Alpine Aster,Aster alpinus,Nectar,General,Full,Herbaceous,Yes,https://parkdalegateway.wordpress.com/2019/05/06/butterflies/,,Medium,Horticultural
