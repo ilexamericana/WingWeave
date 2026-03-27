@@ -92,3 +92,8 @@ Planned enhancements include:
 Status
 ______________________________________
 Phase 2 is complete. The WingWeave prototype is now capable of generating meaningful, customizable planting recommendations based on butterfly species and environmental conditions.
+## How to Run the Prototype
+
+1. Open the notebook (`WingWeave.ipynb`) in Jupyter or Google Colab  
+2. Ensure the dataset file is located in the `data/` folder  
+3. Run all cells to interact with the garden recommendation tool  
