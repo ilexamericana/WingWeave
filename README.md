@@ -49,24 +49,24 @@ Phase 2: Prototype Development
 In Phase 2, WingWeave was developed into a functional Python-based prototype using Jupyter Notebook and pandas.
 The goal of this phase was to move beyond static data and demonstrate how the dataset can be used to generate meaningful, actionable recommendations for gardeners.
 Key Features Implemented
-•	Species-based querying 
-o	Users can input a butterfly species to receive relevant planting recommendations 
-•	Plant role separation 
-o	Distinguishes between: 
-	Host plants (for egg-laying and larval development) 
-	Nectar plants (for adult nourishment) 
-•	Environmental filtering 
-o	Supports filtering by: 
-	Sun exposure (e.g., Full sun) 
-	Plant growth habit (e.g., Herbaceous, Tree, Shrub) 
-•	Dual output modes 
-o	full mode: displays all relevant host and nectar plants 
-o	starter mode: generates a simplified planting plan: 
-	1–2 host plants 
-	2–3 nectar plants
-•	Human-readable output 
-o	Results formatted for clarity and usability 
-o	Includes both common and botanical plant names 
+-	Species-based querying 
+ -	Users can input a butterfly species to receive relevant planting recommendations 
+ -	Plant role separation 
+-	Distinguishes between: 
+ -	Host plants (for egg-laying and larval development) 
+ -	Nectar plants (for adult nourishment) 
+-	Environmental filtering 
+ -	Supports filtering by: 
+  -	Sun exposure (e.g., Full sun) 
+  -	Plant growth habit (e.g., Herbaceous, Tree, Shrub) 
+-	Dual output modes 
+ -	full mode: displays all relevant host and nectar plants 
+ -	starter mode: generates a simplified planting plan: 
+-	1–2 host plants 
+-	2–3 nectar plants
+-	Human-readable output 
+ -	Results formatted for clarity and usability 
+ -	Includes both common and botanical plant names 
 Example Use Case
 A user can query:
 get_garden_plan("Monarch", sun="Full", growth="Herbaceous", mode="starter")
@@ -74,20 +74,21 @@ And receive a structured garden plan tailored to both ecological function and gr
 ________________________________________
 What This Demonstrates
 This phase demonstrates the ability to:
-•	Translate ecological relationships into structured data models 
-•	Build reusable logic using Python and pandas 
-•	Design a decision-support tool based on real-world constraints 
-•	Balance scientific accuracy with practical usability 
+-	Translate ecological relationships into structured data models 
+-	Build reusable logic using Python and pandas 
+-	Design a decision-support tool based on real-world constraints 
+-	Balance scientific accuracy with practical usability 
 ________________________________________
 Phase 3: Next Steps
 Phase 3 will focus on improving usability and accessibility by introducing a more intuitive user experience.
 Planned enhancements include:
-•	Menu-driven input flow
-o	Allow users to select butterflies, sun conditions, and growth habit preferences without writing code
-•	Streamlit-based interface
-o	Transform the notebook prototype into a simple web app
-o	Enable interactive selection and real-time recommendations
-•	Improved output formatting
-o	More structured and visual presentation of garden plans
+-	Menu-driven input flow
+-	Allow users to select butterflies, sun conditions, and growth habit preferences without writing code
+-	Streamlit-based interface
+-	Transform the notebook prototype into a simple web app
+-	Enable interactive selection and real-time recommendations
+-	Improved output formatting
+-	More structured and visual presentation of garden plans
 Status
+______________________________________
 Phase 2 is complete. The WingWeave prototype is now capable of generating meaningful, customizable planting recommendations based on butterfly species and environmental conditions.
